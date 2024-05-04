@@ -3,7 +3,7 @@ The results of the research below (source codes, algorithms, numerical indicator
 
 
 Network infrastructures assessment stability
-DOI: 10.1063/5.0136237 
+https://doi.org/10.1063/5.0136237
  
 DATA PREPARATION MODEL FOR TRAINING NEURAL NETWORKS
 DOI: 10.56243/18294898-2023.4-28
