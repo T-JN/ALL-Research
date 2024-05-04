@@ -22,7 +22,7 @@ Analysis of Some tasks of Machine Learning Applications in the Intrusion Detecti
 https://razmavaraget.files.wordpress.com/2023/08/hb-2023-n1.pdf 
 
 RESEARCH THE MULTIDIMENSIONAL LOGISTIC FUNCTION IN THE INTRUSION DETECTION SYSTEM WITH MACHINE LEARNING
- DOI: 10.56243/18294898-2023.2-64 
+    DOI:10.56243/18294898-2023.2-64 
 
 Research of Model Increasing Reliability Intrusion Detection Systems
 DOI: https://doi.org/10.51408/1963-0103
