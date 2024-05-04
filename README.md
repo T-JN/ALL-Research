@@ -29,18 +29,18 @@ https://doi.org/10.51408/1963-0103
 9. Research of Algorithm for Expanding the Database of Training Datasets of a Generative-Adversarial Network
 https://doi.org/10.56243/18294898-2023.1-59
 
-10. Research of Obfuscated Malware with a Capsule Neural Network
+ 10. Research of Obfuscated Malware with a Capsule Neural Network
  https://doi.org/10.51408/1963-0094
 
-11. Research of the Data Preparation Algorithm for Training Generative Adversarial Network
+ 11. Research of the Data Preparation Algorithm for Training Generative Adversarial Network
 https://doi.org/10.56243/18294898-2023.1-59  
 
-12. Modernization of Intrusion Detection System via the Generative Model
+ 12. Modernization of Intrusion Detection System via the Generative Model
 https://razmavaraget.files.wordpress.com/2022/01/hb2-final.pdf  
 
-13. Application of a GAN for Managing a Precise Stochastically Changeable Signal Sources
+ 13. Application of a GAN for Managing a Precise Stochastically Changeable Signal Sources
 https://elibrary.ru/item.asp?id=47395538  
 
-14. Model of Generative Network Attack
+ 14. Model of Generative Network Attack
 https://www.csit.am/2021/proceedings/IS/IS_3.pdf     
  
