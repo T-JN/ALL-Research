@@ -1,5 +1,5 @@
 # ALL-Research
-The results of the research below (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository.
+The results of the research  (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository.
 
 
 1. Network infrastructures assessment stability
