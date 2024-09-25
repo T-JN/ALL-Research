@@ -2,7 +2,7 @@
 The results of the research  (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository.
 
 
-1. Network infrastructures assessment stability.
+1. Network infrastructures assessment stability..
 https://doi.org/10.1063/5.0136237
  
 2. DATA PREPARATION MODEL FOR TRAINING NEURAL NETWORKS
