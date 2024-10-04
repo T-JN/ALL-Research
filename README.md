@@ -2,11 +2,10 @@
 The results of the research  (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository.
 
  A Study of a Model of Neural Network Application in the Decoy Infrastructure in the Defense Sphere
- DOI: 10.61760/18290108-ehp24.2-71
-
+  https://DOI: 10.61760/18290108-ehp24.2-71 
   
  Network infrastructures assessment stability..
-https://doi.org/10.1063/5.0136237
+   https://doi.org/10.1063/5.0136237
  
  DATA PREPARATION MODEL FOR TRAINING NEURAL NETWORKS
 https://doi.org/10.56243/18294898-2023.4-28
