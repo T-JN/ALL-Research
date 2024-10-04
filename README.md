@@ -1,10 +1,10 @@
 # ALL-Research
 The results of the research (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository.
 
- >>>A Study of a Model of Neural Network Application in the Decoy Infrastructure in the Defense Sphere
-  https://DOI: 10.61760/18290108-ehp24.2-71 
+ A Study of a Model of Neural Network Application in the Decoy Infrastructure in the Defense Sphere
+       https://haykakanbanak.am/wp-content/uploads/2024/09/HB-2-Union-10-Kazm-Text-plus-Nerdir-Stugel.pdf
   
- >>>Network Infrastructures Assessment Stability
+ Network Infrastructures Assessment Stability
    https://doi.org/10.1063/5.0136237
  
  Data Preparation Model for Training Neural Networks
