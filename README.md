@@ -1,14 +1,11 @@
 # ALL-Research
 The results of the research (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository.
 
- A Study of a Model of Neural Network Application in the Decoy Infrastructure in the Defense Sphere // pp.71-83
-       https://haykakanbanak.am/wp-content/uploads/2024/09/HB-2-Union-10-Kazm-Text-plus-Nerdir-Stugel.pdf
+ A Study of a Model of Neural Network Application in the Decoy Infrastructure in the Defense Sphere // pp.71-83 //https://haykakanbanak.am/wp-content/uploads/2024/09/HB-2-Union-10-Kazm-Text-plus-Nerdir-Stugel.pdf
   
- Network Infrastructures Assessment Stability
-   https://doi.org/10.1063/5.0136237
+ Network Infrastructures Assessment Stability //https://doi.org/10.1063/5.0136237
  
- Data Preparation Model for Training Neural Networks
-https://doi.org/10.56243/18294898-2023.4-28
+ Data Preparation Model for Training Neural Networks //https://doi.org/10.56243/18294898-2023.4-28
  
  Research the Model of Detection Polymorphic Malware by the Convolutional Neural Network
 https://doi.org/10.56243/18294898-2023.3-10.
