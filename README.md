@@ -19,7 +19,8 @@ Analysis of Some tasks of Machine Learning Applications in the Intrusion Detecti
 Research the Multidimensional Logistic Function in the Intrusion Detection System with Machine Learning  https://doi.org/10.56243/18294898-2023.2-64 
 
  Research of Model Increasing Reliability Intrusion Detection Systems   https://doi.org/10.51408/1963-0103
-Research of Algorithm for Expanding the Database of Training Datasets of a Generative-Adversarial Network https://doi.org/10.56243/18294898-2023.1-59
+
+ Research of Algorithm for Expanding the Database of Training Datasets of a Generative-Adversarial Network https://doi.org/10.56243/18294898-2023.1-59
 
   Research of Obfuscated Malware with a Capsule Neural Network  https://doi.org/10.51408/1963-0094
 
