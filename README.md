@@ -1,5 +1,5 @@
 # ALL-Research
-The results of the research (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository.
+The results of the research (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository
 
  A Study of a Model of Neural Network Application in the Decoy Infrastructure in the Defense Sphere // pp.71-83 //https://haykakanbanak.am/wp-content/uploads/2024/09/HB-2-Union-10-Kazm-Text-plus-Nerdir-Stugel.pdf
   
