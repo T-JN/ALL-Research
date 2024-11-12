@@ -1,6 +1,7 @@
 # ALL-Research
 The results of the research (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository
 
+Timur V. Jamgharyan, «Recommendations for the Deployment of Equipment for Training Neural Networks», Bulletin of High Technology N 3 (31) 2024. pp. 84-92. https://doi.org/10.56243/18294898-2024.3-84 
 
 Timur V. Jamgharyan, Artak A. Khemchyan «Malware Obfuscation Model Using Machine Learning», Bulletin of High Technology N 3 (31) 2024. pp. 77-83. https://doi.org/10.56243/18294898-2024.3-77  
 
