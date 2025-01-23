@@ -1,5 +1,5 @@
 # ALL-Research
-The results of the research (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository
+The results of the research (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository.
 
 Jamgharyan, T. V., Iskandaryan, V. S., & Khemchyan, A. A. (2024). Оbfuscated Мalware Detection Model. Mathematical Problems of Computer Science, 62, 72–81. Retrieved from http://mpcs.sci.am/index.php/mpcs/article/view/862
 
