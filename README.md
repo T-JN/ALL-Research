@@ -14,7 +14,7 @@ Timur V. Jamgharyan, Artak A. Khemchyan «Malware Obfuscation Model Using Machin
  Data Preparation Model for Training Neural Networks //https://doi.org/10.56243/18294898-2023.4-28
  
  Research the Model of Detection Polymorphic Malware by the Convolutional Neural Network
-https://doi.org/10.56243/18294898-2023.3-10.
+https://doi.org/10.56243/18294898-2023.3-10
  
   Network Intrusion Detection System Performance Measurement Model https://doi.org/10.51408/csit2023_59
  
