@@ -1,6 +1,8 @@
 # ALL-Research
 The results of the research (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository
 
+Timur V. Jamgharyan, «Research of Model for Increase Learning Speed of a Neural Network in the Linux Operating System», Bulletin of High Technology N 2 (34) 2025. pp. 99-108 https://doi.org/10.56243/18294898-2025.2-99
+
 Jamgharyan, T. V., Iskandaryan, V. S., & Khemchyan, A. A. (2024). Оbfuscated Мalware Detection Model. Mathematical Problems of Computer Science, 62, 72–81. Retrieved from http://mpcs.sci.am/index.php/mpcs/article/view/862
 
 Timur V. Jamgharyan, «Recommendations for the Deployment of Equipment for Training Neural Networks», Bulletin of High Technology N 3 (31) 2024. pp. 84-92 https://doi.org/10.56243/18294898-2024.3-84 
