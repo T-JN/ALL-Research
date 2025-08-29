@@ -18,7 +18,7 @@ https://doi.org/10.56243/18294898-2023.3-10
  
   Network Intrusion Detection System Performance Measurement Model https://doi.org/10.51408/csit2023_59
  
- Polymorphic Malware Analysis Model  https://doi.org/10.51408/csit2023_17 
+ Polymorphic Malware Analysis Model.  https://doi.org/10.51408/csit2023_17 
 
 Analysis of Some tasks of Machine Learning Applications in the Intrusion Detection Systems in the Cyber Domain //pp.55-67  https://razmavaraget.files.wordpress.com/2023/08/hb-2023-n1.pdf 
 
