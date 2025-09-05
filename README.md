@@ -9,7 +9,7 @@ Timur V. Jamgharyan, «Recommendations for the Deployment of Equipment for Train
 
 Timur V. Jamgharyan, Artak A. Khemchyan «Malware Obfuscation Model Using Machine Learning», Bulletin of High Technology N 3 (31) 2024. pp. 77-83. https://doi.org/10.56243/18294898-2024.3-77  
 
- A Study of a Model of Neural Network Application in the Decoy Infrastructure in the Defense Sphere // pp.71-83 //https://haykakanbanak.am/wp-content/uploads/2024/09/HB-2-Union-10-Kazm-Text-plus-Nerdir-Stugel.pdf
+ A Study of a Model of Neural .Network Application in the Decoy Infrastructure in the Defense Sphere // pp.71-83 //https://haykakanbanak.am/wp-content/uploads/2024/09/HB-2-Union-10-Kazm-Text-plus-Nerdir-Stugel.pdf
   
  Network Infrastructures Assessment Stability //https://doi.org/10.1063/5.0136237
  
