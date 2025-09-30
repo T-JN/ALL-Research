@@ -1,6 +1,18 @@
 # ALL-Research
 The results of the research (source codes, algorithms, numerical indicators, visualizations, etc.) are in a private repository
 
+Research on a Calibration Model for ML-Based Obfuscated Malware Detection
+Proceedings of “Computer Science and Information Technologies” International Conference
+2025-09-21 | conference-paper
+DOI: 10.51408/csit2025_41
+
+
+
+Research on Classifier Calibration Methods in Network Infrastructure
+Proceedings of “Computer Science and Information Technologies” International Conference
+2025-09-21 | conference-paper
+DOI: 10.51408/csit2025_73
+
 Timur V. Jamgharyan, «Research of Model for Increase Learning Speed of a Neural Network in the Linux Operating System», Bulletin of High Technology N 2 (34) 2025. pp. 99-108 https://doi.org/10.56243/18294898-2025.2-99
 
 Jamgharyan, T. V., Iskandaryan, V. S., & Khemchyan, A. A. (2024). Оbfuscated Мalware Detection Model. Mathematical Problems of Computer Science, 62, 72–81. Retrieved from http://mpcs.sci.am/index.php/mpcs/article/view/862
